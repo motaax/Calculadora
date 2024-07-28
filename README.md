@@ -1,2 +1,2 @@
 # Calculadora
- Primeiro projeto versionado em Python
+ Primeiro projeto versionado em Python.
