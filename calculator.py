@@ -1,6 +1,6 @@
-num1 = float(input("Enter first number: "))
-op = input("Enter operator: ")
-num2 = float(input("Enter second number: "))
+num1 = float(input("Ensira o primeiro número: "))
+op = input("Ensira o operador: ")
+num2 = float(input("Ensira o segundo número: "))
 
 if op == "+":
     print(num1 + num2)
@@ -11,4 +11,4 @@ elif op == "/":
 elif op == "*":
     print(num1 * num2)
 else:
-    print("Invalid operator")
+    print("Operador inválido!")
