@@ -1,3 +1,4 @@
+#Criando  variáveis
 num1 = float(input("Ensira o primeiro número: "))
 op = input("Ensira o operador: ")
 num2 = float(input("Ensira o segundo número: "))
